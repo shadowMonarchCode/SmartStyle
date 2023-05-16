@@ -1,0 +1,23 @@
+path: 'C:/Users/rishu/Projects/SmartStyle2'
+train: ./data/images/train
+val: ./data/images/train
+
+# number of classes
+nc: 13
+
+# Class names
+names: [
+'short sleeve top',
+'long sleeve top',
+'short sleeve outwear',
+'long sleeve outwear',
+'vest',
+'sling',
+'shorts',
+'trousers',
+'skirt',
+'short sleeve dress',
+'long sleeve dress',
+'vest dress',
+'sling dress'
+]

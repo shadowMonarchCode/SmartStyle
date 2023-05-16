@@ -1,0 +1,13 @@
+# All tha datasets
+data/
+images/
+shop/
+vector_images/
+
+# Pre trained yolo model weights
+yolov8n.pt
+
+runs/detect/val*/*.jpg
+runs/detect/train/*.jpg
+
+.ipynb_checkpoints
